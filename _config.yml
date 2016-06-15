@@ -1,0 +1,17 @@
+# Site Settings
+baseurl: ""
+url: http://startbootstrap.com
+encoding: UTF-8
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+
+# Site Details
+license: "MIT"
+license-url: "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+author: "Start Bootstrap"
+
+# Jekyll Redirect From Plugin for Redirects from Start Bootstrap Old Version
+gems:
+  - jekyll-redirect-from
